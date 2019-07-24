@@ -13,7 +13,7 @@ $ docker-compose up
 
 Output : - 
 
-producer script will generate Stock price 
+producer script will generate Stock price
 Consumer script will display stock price 
 
 
