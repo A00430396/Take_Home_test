@@ -6,8 +6,8 @@ Take home assignment using docker-compose kafka
 
 Instructions: - 
 
-Clone that repository on local 
-$ cd dockercompose
+Clone that repository on local and run following command: - 
+$ cd dockercompose 
 $ docker-compose up 
 
 
